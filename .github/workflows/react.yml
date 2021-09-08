@@ -3,7 +3,7 @@ name: React Deploy
 on:
   push:
     branches:
-      - dev-front
+      - dev_front
     tags:
       - front-*
 jobs:

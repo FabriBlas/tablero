@@ -2,8 +2,6 @@ name: React Deploy
 
 on:
   push:
-    branches:
-      - dev_front
     tags:
       - front-*
 jobs:

@@ -14,6 +14,7 @@ jobs:
 
       - name: Install all dependencies
         run: |
+          ls
           cd front
           npm install
 
